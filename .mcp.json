@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "MCPMagic": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": ["C:\\Users\\sbr97\\AppData\\Local\\Packages\\MCPmagic.MCPMagic_9dwyjbxz2q7bm\\LocalCache\\Roaming\\MCP Magic\\mcp-server.cjs"]
+    }
+  }
+}
